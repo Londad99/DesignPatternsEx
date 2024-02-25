@@ -3,7 +3,7 @@ package AbstractFactory;
 public class FabricaGamaAlta implements FabricaTelefonos{
     @Override
     public Telefono crearTelefono() {
-        return new GamaAlta();
+        return new TelefonoGamaAlta();
     }
 
     @Override
