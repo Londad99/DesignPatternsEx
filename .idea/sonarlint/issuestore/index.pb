@@ -486,3 +486,11 @@ I
 src/Builder/Director.java,f\a\fa73b3e612de700382d29e80faf8418d104dd5dd
 O
 src/Builder/Implementacion.java,f\6\f642961c95675b3bf0c2cc8eeb17493b3af3230d
+K
+src/Prototype/Vehiculo.java,c\1\c1e718aae8fd145b18ca7ae79c851f3f8f3e42d2
+H
+src/Prototype/Carro.java,2\5\25ed4b28643c80f13c6f3d877d73b2e085f77d24
+G
+src/Prototype/Moto.java,e\2\e2ffccd68d2234fb272a74b6ddb97534de669346
+Q
+!src/Prototype/Implementacion.java,e\0\e09271e926ce6023f8e083872de4d595398f09ab
