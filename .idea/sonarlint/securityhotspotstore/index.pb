@@ -494,3 +494,11 @@ G
 src/Prototype/Moto.java,e\2\e2ffccd68d2234fb272a74b6ddb97534de669346
 Q
 !src/Prototype/Implementacion.java,e\0\e09271e926ce6023f8e083872de4d595398f09ab
+I
+src/Singleton/Evento.java,b\c\bcc0dd1399bab5c124e6f5ff3c12e9dce915115e
+L
+src/Singleton/Registros.java,d\9\d903679d5125e9b93264f1e52cbb86a9eb2bc2b0
+U
+%src/Singleton/RegistradorEventos.java,a\6\a685c58caa92a7fab94f7b2ebdfd8ed3e3ac89e3
+Q
+!src/Singleton/Implementacion.java,5\1\51b678ee16a64dc4fda55e46e4e0dc475f271d64
